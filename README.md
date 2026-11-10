@@ -32,10 +32,10 @@ I'm a Full Stack Developer focused on building responsive, scalable, and user-fr
 
 # 📊 GitHub Stats & Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokchando&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=alokchando&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokchando&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alokchando&theme=tokyonight)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alokchando&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=alokchando&theme=tokyo-night)
 
 ⭐ Thanks for visiting my profile!
