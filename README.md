@@ -1,20 +1,12 @@
 # Hi, I'm Alok 
 
 ### Full Stack Developer | MERN Stack | Next.js | TypeScript
+
 I'm a Full Stack Developer focused on building responsive, scalable, and user-friendly web applications. I enjoy turning ideas into functional products, solving technical problems, and continuously improving my software development skills.
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-chando-23a90b36a/)
-
-
-# 📊 GitHub Stats & Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokchando&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokchando&theme=tokyonight)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alokchando&theme=tokyo-night)
-
 
 # 💻 Tech Stack:
 
@@ -38,6 +30,12 @@ I'm a Full Stack Developer focused on building responsive, scalable, and user-fr
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
+# 📊 GitHub Stats & Contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokchando&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokchando&theme=tokyonight)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alokchando&theme=tokyo-night)
+
 ⭐ Thanks for visiting my profile!
-
-
